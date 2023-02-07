@@ -1,0 +1,13 @@
+/*Esto es un fichero de estilo CSS */
+
+h1{
+    color:green;
+}
+
+p{
+    color:#ff0a0a
+}
+
+li{
+    color:rgba(68, 241, 15, 0.3)
+}
