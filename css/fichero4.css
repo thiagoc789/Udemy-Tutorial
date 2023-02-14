@@ -1,0 +1,18 @@
+/*Estilos*/
+
+h1{
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+p{
+    font-weight: bolder; 
+}
+
+.parrafo2{
+    font-weight: lighter;
+    font-size: 20px;
+}

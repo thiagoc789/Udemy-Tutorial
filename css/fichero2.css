@@ -1,0 +1,21 @@
+body{
+    background-color: lightgrey;
+
+}
+
+p{
+    background-color: aqua;
+
+}
+
+div{
+    background-color: blanchedalmond;
+    border-color: brown;
+    border-width: 2px;
+    border-style: dashed;
+}
+
+span{
+    background-color: rgb(197, 51, 51);
+    border: 4px solid rgb(3, 3, 3);
+}

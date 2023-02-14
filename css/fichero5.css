@@ -1,0 +1,19 @@
+.linea1{
+    border: 5px solid green;
+    width: 50%;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 60px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: larger;
+    
+}
+
+.linea2{
+    border: 8px dotted blue;
+    width: 50%;
+    text-align: center;
+}
